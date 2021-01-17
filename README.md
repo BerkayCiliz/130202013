@@ -4,7 +4,7 @@ Başlatmak için
 
 "npm install -g @ionic/cli",
 "git clone https://github.com/BerkayCiliz/130202013.git",
-"cd ionifits",
+"cd 130202013",
 "npm install firebase",
 "ionic serve" komutlarını sırayla komut istemine uygulayınız.
 
