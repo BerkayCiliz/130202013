@@ -2,10 +2,10 @@ Berkay CILIZ 130202013
 
 Başlatmak için
 
-"npm install -g @ionic/cli"
-"git clone https://github.com/BerkayCiliz/130202013.git"
-"cd ionifits"
-"npm install firebase"
+"npm install -g @ionic/cli",
+"git clone https://github.com/BerkayCiliz/130202013.git",
+"cd ionifits",
+"npm install firebase",
 "ionic serve" işlemlerini sırayla komut istemine uygulayınız
 
 İlk olarak npm kurulumunu nodjs kurulumunu yaptım.Daha sonra ionic frame work kurulumunu yaptım.
