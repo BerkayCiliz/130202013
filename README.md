@@ -6,7 +6,7 @@ Başlatmak için
 "git clone https://github.com/BerkayCiliz/130202013.git",
 "cd 130202013",
 "npm install firebase",
-"ionic serve" komutlarını sırayla komut istemine uygulayınız.
+"ionic serve" komutlarını sırayla komut sistemine uygulayınız.
 
 İlk olarak npm kurulumunu nodjs kurulumunu yaptım.Daha sonra ionic frame work kurulumunu yaptım.
 Bundan sonra bir ionic projesi oluşturdum oluşturuken angular vs yapılarını proje içerisine kurdum.
