@@ -45,8 +45,10 @@ Eğer bir kaydımız yoksada register now dedikten sonra bu sayfaya yönlendiril
 
 
 
+Burada kayıt yapıldıktan sonra firebase üzerinden bir onay mesajı alıyoruz bunu tıkladığımızda kaydımız onaylanıyor.
+![mail onay](https://user-images.githubusercontent.com/41726535/105180418-9ec76d80-5b3b-11eb-9930-2bdad8cba71d.png)
 
-Kayıt yapıldıktan sonra  kişinin mailine aktivasyon mesajı geliyor ve tıkladığında kayıt tamamlanıyor ve burada firebase veritabanında kullanıcının bilgilerini görebiliyoruz.
+En son kayıt yapıldıktan sonra kullanıcı bilgileri firebase veritabanında görüntüleyebiliyoruz.
 ![firebase veritabanı](https://user-images.githubusercontent.com/41726535/105179075-e4833680-5b39-11eb-9d6b-877b0f6be422.png)
 
 
