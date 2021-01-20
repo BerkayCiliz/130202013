@@ -26,6 +26,8 @@ Login kısmınında componentler kullanılarak html de yazdıklarımıda birleş
 Yani buraya kadar servisler kullanıldı,component kullanıldı,navigate ile sayfalar arası geçişler yapıldı, 
 giriş –kayıt ol-şifre yenile yapısı kuruldu , firebase ile veritabanına veri ekleyip-çıkarma yapıldı.
 
+
+
 Burada giriş yapılıyor eğer kayıt yoksa kayıt yapmak için register, şifre unutulduysa da forgot password diyerek diğer işlemlere geçebiliriz.
 ![giriş](https://user-images.githubusercontent.com/41726535/105178292-e0a2e480-5b38-11eb-8851-4cb36aa38259.png)
 
